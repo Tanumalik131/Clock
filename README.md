@@ -1,2 +1,2 @@
 # Clock
-## Created By Using HTML,CSS,Bootstrap
+## Created By Using JS,CSS,Bootstrap,HTML
